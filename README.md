@@ -1,7 +1,7 @@
 # Challenge ONE - Encriptador de texto.
 
 
-## Desarrolladora ✒️
+## Desarrolladora
 
 * **Teresa Pezo Saldivar** - *Desarrolladora* - [Teresa](www.linkedin.com/in/teresa-pezo-saldivar-1906b627)
 
@@ -11,11 +11,7 @@ Es la resolución del **Challenge - Encriptador de Texto** utilizando **HTML5**,
 
 El reto cosiste en contruir una página web que encripte y desencripte el texto que será ingresado por el usuario y poder regresar en su forma encriptada o desencriptada según sea el caso, el objetivo principal de este desafio es poner a prueba los conocimientos adquiridos durante los cursos vistos en la **Formación Principiante en Programación**.
 
-### Historia
-
-El _Encriptador de Texto_ es una aplicación que encripta textos, así podras intercambiar mensajes secretos con otras personas que sepan el secreto de la encriptación utilizada.
-
-#### Requisitos
+#### Reglas
 
 Las **llaves** de encriptación que utilizaremos son las siguientes:
 
