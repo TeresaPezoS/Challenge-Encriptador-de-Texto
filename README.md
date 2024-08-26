@@ -6,10 +6,10 @@
 * **Teresa Pezo Saldivar** - *Desarrolladora* - [Teresa](www.linkedin.com/in/teresa-pezo-saldivar-1906b627)
 
 ## Descripción del Proyecto:
+El reto consiste en construir una página web que encripte y desencripte el texto que será ingresado por el usuario y poder regresar en su forma encriptada o desencriptada según sea el caso, el objetivo principal de este desafio es poner a prueba los conocimientos adquiridos durante los cursos vistos en la **Formación Principiante en Programación**.
 
-Es la resolución del **Challenge - Encriptador de Texto** utilizando **HTML5**, **CSS3** y **JavaScript** es el primer reto de la formación **Oracle Next Education (ONE)** de **Oracle + Alura LATAM**.
+En esta resolución del **Challenge - Encriptador de Texto** se utilizo **HTML5**, **CSS3** y **JavaScript** es el primer reto de la formación **Oracle Next Education (ONE)** de **Oracle + Alura LATAM**.
 
-El reto cosiste en contruir una página web que encripte y desencripte el texto que será ingresado por el usuario y poder regresar en su forma encriptada o desencriptada según sea el caso, el objetivo principal de este desafio es poner a prueba los conocimientos adquiridos durante los cursos vistos en la **Formación Principiante en Programación**.
 
 #### Reglas
 
@@ -35,17 +35,11 @@ La letra "u" es convertida en "ufat"
 
 - `Extra`: Un botón que copie el texto encriptado/desencriptado para la sección de transferencia, o sea que tenga la misma funcionalidad del **Ctrl + C** o de la opción "Copiar" del menú de las aplicaciones.
 
-## Comenzando 🚀
-
-_Estas instrucciones te permitirán acceder u obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
 ### Pre-requisitos 📋
 
 No son necesarios tener descargados programas especiales para poder probar el Encriptador de texto, simplemente con el navegador web de su preferencia.
 
-### Instalación 🔧
-
-Para probarlo se puede de dos maneras ya sea descargando una copia en su computadora o directamente desde GitHub Pages.
 
 	
 		
