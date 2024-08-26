@@ -5,7 +5,7 @@
 
 * **Teresa Pezo Saldivar** - *Desarrolladora* - [Teresa](www.linkedin.com/in/teresa-pezo-saldivar-1906b627)
 
-## Descrpción del Proyecto:
+## Descripción del Proyecto:
 
 Es la resolución del **Challenge - Encriptador de Texto** utilizando **HTML5**, **CSS3** y **JavaScript** es el primer reto de la formación **Oracle Next Education (ONE)** de **Oracle + Alura LATAM**.
 
